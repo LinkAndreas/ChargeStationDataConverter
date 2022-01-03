@@ -1,0 +1,31 @@
+[
+    {
+        "address":{
+            "additionalInfo":null,
+            "city":"Heroldstatt",
+            "district":"Landkreis Alb-Donau-Kreis",
+            "postcode":"72535",
+            "state":"Baden-W\u00fcrttemberg",
+            "street":"Ennabeurer Weg",
+            "streetNumber":"0"
+        },
+        "chargePoints":[
+            {
+                "maxPowerInKw":22.0,
+                "plugTypes":"AC Steckdose Typ 2"
+            },
+            {
+                "maxPowerInKw":22.0,
+                "plugTypes":"AC Steckdose Typ 2"
+            }
+        ],
+        "creationDate":"2020-01-11T00:00:00",
+        "id":1,
+        "location":{
+            "latitude":48.442398,
+            "longitude":9.659075
+        },
+        "operator":"Albwerk GmbH & Co. KG",
+        "type":"Normalladeeinrichtung"
+    }
+]
