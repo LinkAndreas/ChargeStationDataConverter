@@ -1,16 +1,16 @@
 # Charge Station Data Converter
 
-This script normalizes and simplifies charge station data provided by Bundesnetzagentur.de under the CC-BY 4.0.
+The script normalizes and simplifies charge station data provided by Bundesnetzagentur.de under the CC-BY 4.0.
 
 ## Usage
 
-You can run the script with the CSV file as input using the following command:
+You can run the script using the following command:
 
 ```console
 python3 main.py input.csv
 ```
 
-The output will be genrated in the same directory:
+The output is genrated in the same directory.
 
 ### Example:
 Sample input CSV file:
