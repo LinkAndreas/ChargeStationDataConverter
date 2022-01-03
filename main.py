@@ -3,8 +3,7 @@
 
 # Charge Station Data Converter (CSV to JSON):
 # 
-# This script normalizes and simplifies charge station data 
-# provided by Bundesnetzagentur.de under the CC-BY 4.0.
+# The script normalizes and simplifies charge station data provided by Bundesnetzagentur.de under the CC-BY 4.0.
 #
 # Usage: 'python3 main.py input.csv'
 
